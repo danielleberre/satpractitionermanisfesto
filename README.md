@@ -1,4 +1,4 @@
-# The SAT Practitioner Manisfesto
+# The SAT Practitioner's Manifesto
 
 Practical SAT research is both time and resource consuming.
 As such, it is important that the community provides some
