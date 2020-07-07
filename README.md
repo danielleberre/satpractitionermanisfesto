@@ -32,12 +32,12 @@ preferably in source form. This allows to check performance claims independently
 
 ## Experimental results should include comparison with the state-of-the-art
 
-The community has established regular competitive events to publicly promote state-of-the art systems.
+The community has established regular competitive events to publicly promote state-of-the-art systems.
 It is expected that experimental results, about benchmarks or solvers, includes state-of-the-art 
 systems highlighted during recent competitive events. The comparison could also include
-reference systems (widely used systems which might no longer be considered as state-of-the-art).
+reference systems (widely used systems which might no longer be considered state of the art).
 
-In order to better understand the contribution to the state-of-the-art, and since competition results
+In order to better understand the contribution to the state of the art, and since competition results
 provide a large resource of independent experiments, is also advisable to include a comparison to
 top performing solvers of one of the last competitive events on exactly the benchmarks of this event.
 
