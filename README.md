@@ -39,7 +39,7 @@ reference systems (widely used systems which might no longer be considered as st
 
 In order to better understand the contribution to the state-of-the-art, and since competition results
 provide a large resource of independent experiments, is also advisable to include a comparison to
-top performing solvers of the last competitive event on exactly the benchmarks of this event.
+top performing solvers of one of the last competitive events on exactly the benchmarks of this event.
 
 Beside reporting on the number of solved instances or run-time (including PAR2 scores etc.) it is most
 instructive to also include secondary statistics.  For instance if a new method is supposed
