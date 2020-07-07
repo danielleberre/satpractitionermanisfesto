@@ -19,6 +19,11 @@ The following principles are adopted by the community:
 Papers presenting results on benchmarks should provide a link to those benchmarks,
 preferably the raw benchmarks, else a generator for those benchmarks.
 
+In general, the community is also interested on results that improve SAT solving on
+non-public benchmarks. Still authors are expected to make their research repeatable
+and extensible by others, by providing for instance artificial but public benchmarks,
+with similar characteristics, on which the new methods is also evaluated.
+
 ## Solvers should be available in binary form for research purpose
 
 Papers presenting experimental results about a system (solver) should
