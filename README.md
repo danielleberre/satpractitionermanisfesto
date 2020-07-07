@@ -41,6 +41,14 @@ In order to better understand the contribution to the state-of-the-art, and sinc
 provide a large resource of independent experiments, is also advisable to include a comparison to
 top performing solvers of one of the last competitive events on exactly the benchmarks of this event.
 
+>  Many papers report results on arbitrarily merge benchmarks and then only
+> report results on those.  Then one can not check out other papers (or competition results),
+> to figure out what this really means (without running the competition again on the benchmarks).
+> It is better to use a canonical set of benchmarks, for which the community already has numbers.  So using
+> only 2018, 2019, 2020 benchmarks alone make sense, but not merging them (or some pairs)
+> and ONLY reporting on the merged instance set. The point is that a reader can compare the results with existing results without the
+> need to run something (or do some complicated spreadsheet hack).
+
 Beside reporting on the number of solved instances or run-time (including PAR2 scores etc.) it is most
 instructive to also include secondary statistics.  For instance if a new method is supposed
 to reduce the number of conflicts, then of course the number of needed conflicts should be included.
