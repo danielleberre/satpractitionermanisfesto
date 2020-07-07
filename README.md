@@ -1,4 +1,4 @@
-# The SAT Practitioner Manisfesto
+# The SAT Practitioner's Manifesto
 
 Practical SAT research is both time and resource consuming.
 As such, it is important that the community provides some
@@ -63,5 +63,5 @@ Those details should be provided when reporting the results.
 It takes time and computer resources to collect empirical evidences and to dig details about benchmarks sets.
 All data retrieved on a set of benchmarks from competitive event year X should not be void as soon as a 
 new set of benchmarks is unveiled.
-As such, the community acknowledge that benchmarks set from year X can be used as a reference until year X+3 included.
+As such, the community acknowledges that benchmark set from year X can be used as a reference until year X+3 included.
 
