@@ -14,7 +14,7 @@ The following principles are adopted by the community.
 1. Generic benchmarks sets (e.g. competition benchmarks) can be used during a period of 3 years.
 
 
-## Benchmarks should be publicly available for research purpose
+## Benchmarks should be publicly available for research purposes
 
 Papers presenting results on benchmarks should provide a link to those benchmarks,
 preferably the raw benchmarks, else a generator for those benchmarks.
@@ -24,13 +24,13 @@ non-public benchmarks. Still authors are expected to make their research repeata
 and extensible by others, by providing for instance artificial but public benchmarks,
 with similar characteristics, on which the new methods is also evaluated.
 
-## Solvers should be available in binary form for research purpose
+## Solvers should be available in binary form for research purposes
 
 Papers presenting experimental results about a system (solver) should
 allow the community to access this solver in at least binary form,
 preferably in source form. This allows to check performance claims independently.
 
-## Experimental results should include comparison with the state-of-the-art
+## Experimental results should include comparison with the state of the art
 
 The community has established regular competitive events to publicly promote state-of-the-art systems.
 It is expected that experimental results, about benchmarks or solvers, includes state-of-the-art 
