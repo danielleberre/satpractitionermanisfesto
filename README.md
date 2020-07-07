@@ -30,6 +30,13 @@ Papers presenting experimental results about a system (solver) should
 allow the community to access this solver in at least binary form,
 preferably in source form. This allows to check performance claims independently.
 
+## A recent generic benchmarks set (e.g. competition benchmarks) should be chosen among the ones of the last 3 years
+
+It takes time and computer resources to collect empirical evidences and to dig details about benchmarks sets.
+All data retrieved on a set of benchmarks from competitive event year X should not be void as soon as a
+new set of benchmarks is unveiled.
+As such, the community acknowledge that the entire benchmark set from year X will be acceptable until year X+3 included. 
+
 ## Experimental results should include comparison with the state of the art
 
 The community has established regular competitive events to publicly promote state-of-the-art systems.
@@ -37,9 +44,8 @@ It is expected that experimental results, about benchmarks or solvers, includes 
 systems highlighted during recent competitive events. The comparison could also include
 reference systems (widely used systems which might no longer be considered state of the art).
 
-In order to better understand the contribution to the state of the art, and since competition results
-provide a large resource of independent experiments, is also advisable to include a comparison to
-top performing solvers of one of the last competitive events on exactly the benchmarks of this event.
+In order to better understand the contribution to the state of the art, and since competition results provide a large resource of independent experiments, 
+if benchmarks suite from year X are employed, then it is advisable to include comparison to top performing solvers for all the years since (including) X. 
 
 >  Many papers report results on arbitrarily merge benchmarks and then only
 > report results on those.  Then one can not check out other papers (or competition results),
@@ -57,11 +63,3 @@ to reduce the number of conflicts, then of course the number of needed conflicts
 
 The experimental results much depend on the hardware (CPU, amount of RAM, L2/L3 cache, NUMA architecture, etc.) and operating system.
 Those details should be provided when reporting the results.
-
-## Generic benchmarks sets (e.g. competition benchmarks) can be used during a period of 3 years
-
-It takes time and computer resources to collect empirical evidences and to dig details about benchmarks sets.
-All data retrieved on a set of benchmarks from competitive event year X should not be void as soon as a 
-new set of benchmarks is unveiled.
-As such, the community acknowledge that benchmarks set from year X can be used as a reference until year X+3 included.
-
