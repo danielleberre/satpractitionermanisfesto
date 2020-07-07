@@ -9,9 +9,10 @@ The following principles are adopted by the community.
 
 1. Benchmarks should be available for research purposes.
 1. Solvers should be available in binary form for research purposes.
+1. A recent generic benchmarks set (e.g. competition benchmarks) should be chosen among the ones of the last 3 years.
 1. Experimental results should include comparison with the state of the art.
 1. Experimental conditions details should be provided (hardware, OS).
-1. Generic benchmarks sets (e.g. competition benchmarks) can be used during a period of 3 years.
+
 
 
 ## Benchmarks should be publicly available for research purposes
