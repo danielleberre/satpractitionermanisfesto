@@ -32,6 +32,14 @@ It is expected that experimental results, about benchmarks or solvers, includes 
 systems highlighted during recent competitive events. The comparison could also include
 reference systems (widely used systems which might no longer be considered as state-of-the-art).
 
+In order to better understand the contribution to the state-of-the-art, and since competition results
+provide a large resource of independent experiments, is also advisable to include a comparison to
+top performing solvers of the last competitive event on exactly the benchmarks of this event.
+
+Beside reporting on the number of solved instances or run-time (including PAR2 scores etc.) it is most
+instructive to also include secondary statistics.  For instance if a new method is supposed
+to reduce the number of conflicts, then of course the number of needed conflicts should be included.
+
 ## Experimental conditions details should be provided (hardware, OS)
 
 The experimental results much depend on the hardware (CPU, amount of RAM, L2/L3 cache, NUMA architecture, etc.) and operating system.
