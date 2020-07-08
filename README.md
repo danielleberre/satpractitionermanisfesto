@@ -6,7 +6,7 @@ Please create a pull request or an issue (strongly preferred) or email Daniel Le
 
 -------------
 
-# The SAT Practitioner's Manifesto
+# The SAT Practitioner's Manifesto v1.0 
 
 Practical SAT research is both time and resource consuming.
 As such, it is important that the community provides some
@@ -16,12 +16,15 @@ are properly recognized during paper evaluation.
 The following principles are adopted by the community.
 
 1. Benchmarks should be available for research purposes.
-1. Solvers should be available in binary form for research purposes.
-1. A recent generic benchmarks set (e.g. competition benchmarks) should be chosen among the ones of the last 3 years.
-1. Experimental results should include comparison with the state of the art.
-1. Experimental conditions details should be provided (hardware, OS).
+2. Solvers should be available in binary form for research purposes.
+3. A recent generic benchmarks set (e.g. competition benchmarks) should be chosen among the ones of the last 3 years.
+4. Experimental results should include comparison with the state of the art.
+5. Experimental conditions details should be provided (hardware, OS).
 
 
+The authors may indicate the number of principles followed in their
+evaluation so as to signal to the reviewers of the soundness of the methodology. 
+For example with phrases such as "Our evaluation follows 5/5 principles laid out in SAT mainfesto (version x.xx)". 
 
 ## Benchmarks should be publicly available for research purposes
 
@@ -54,7 +57,7 @@ systems highlighted during recent competitive events. The comparison could also 
 reference systems (widely used systems which might no longer be considered state of the art).
 
 In order to better understand the contribution to the state of the art, and since competition results provide a large resource of independent experiments, 
-if benchmarks suite from year X are employed, then it is advisable to include comparison to top performing solvers for all the years since (including) X. 
+if benchmarks suite from year X is employed, then it is advisable to include comparison to top performing solvers for all the years since (including) X. 
 
 >  Many papers report results on arbitrarily merge benchmarks and then only
 > report results on those.  Then one can not check out other papers (or competition results),
