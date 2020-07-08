@@ -1,3 +1,11 @@
+# Request for Feedback/Comments
+
+Please create a pull request (strongly preferred) or email Daniel Le Berre directly at  <leberre@cril.fr>
+
+
+
+-------------
+
 # The SAT Practitioner's Manifesto
 
 Practical SAT research is both time and resource consuming.
