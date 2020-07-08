@@ -1,6 +1,6 @@
 # Request for Feedback/Comments
 
-Please create a pull request (strongly preferred) or email Daniel Le Berre directly at  <leberre@cril.fr>
+Please create a pull request or an issue (strongly preferred) or email Daniel Le Berre directly at  <leberre@cril.fr>
 
 
 
