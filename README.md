@@ -44,7 +44,7 @@ or even better in source form. This allows to check performance claims independe
 It takes time and computer resources to collect empirical evidence and to dig details about benchmarks sets.
 All data retrieved on a set of benchmarks from a competitive event in year X should not be void as soon as a
 new set of benchmarks is published.
-As such, the community acknowledge that the entire benchmark set from year X will be acceptable until year X+3 included. 
+As such, the community acknowledges that the entire benchmark set from year X will be acceptable until year X+3 included. 
 
 ## Experimental results should include a comparison with the state of the art
 
@@ -52,6 +52,11 @@ The community has established regular competitive events to publicly promote sta
 It is expected that experimental results, about benchmarks or solvers, include state-of-the-art 
 systems highlighted during recent competitive events. The comparison could also include
 reference systems (widely used systems which might no longer be considered state of the art).
+
+It is also useful to choose the experimental setup in such a way that a comparison with other published data is easy.
+One could use similar hardware, corresponding time limits, if necessary provide scaling factors, or at least run reference solvers too.
+For instance if the authors chose to run the benchmark from a certain competition, then the evaluation will be more instructive if results for another solver
+winning or at least participating in that competition are also provided, unless of course, the time-limit and the hardware setup are directly comparable.
 
 In order to better understand the contribution to the state of the art, and since competition results provide a large resource of independent experiments, 
 if the benchmark suite from year X is used, then it is advisable to include a comparison to top performing solvers for all the years since (including) X. 
