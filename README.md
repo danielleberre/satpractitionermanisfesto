@@ -6,7 +6,7 @@ Please create a pull request or an issue (strongly preferred) or email Daniel Le
 
 -------------
 
-# The SAT Practitioner's Manifesto
+# The SAT Practitioner's Manifesto v1.0 
 
 Practical SAT research is both time and resource consuming.
 As such, it is important that the community provides some
@@ -22,6 +22,9 @@ The following principles are adopted by the community.
 1. Details on the experimental conditions should be provided (e.g. hardware, OS).
 
 
+The authors may indicate the number of principles followed in their
+evaluation so as to signal to the reviewers of the soundness of the methodology. 
+For example with phrases such as "Our evaluation follows 5/5 principles laid out in SAT mainfesto (version x.xx)". 
 
 ## Benchmarks should be publicly available for research purposes
 
@@ -60,6 +63,7 @@ winning or at least participating in that competition are also provided, unless 
 
 In order to better understand the contribution to the state of the art, and since competition results provide a large resource of independent experiments, 
 if the benchmark suite from year X is used, then it is advisable to include a comparison to top performing solvers for all the years since (including) X. 
+
 
 >  Many papers report results on arbitrarily merge benchmarks and then only
 > report results on those.  Then one can not check out other papers (or competition results),
