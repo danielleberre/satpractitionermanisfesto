@@ -81,3 +81,7 @@ to reduce the number of conflicts, then of course the number of conflicts should
 
 The experimental results much depend on the hardware (CPU, amount of RAM, L2/L3 cache, NUMA architecture, etc.) and operating system.
 Those details should be provided when reporting the results.
+
+# Signatories 
+
++ Daniel Le Berre (Université d'Artois/CNRS)
