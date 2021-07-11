@@ -49,6 +49,8 @@ All data retrieved on a set of benchmarks from a competitive event in year X sho
 new set of benchmarks is published.
 As such, the community acknowledges that the entire benchmark set from year X will be acceptable until year X+3 included. 
 
+*For instance, the SAT Competition 2021 benchmarks will be released in July 2021. They can be used in 2022, 2023 and until July 2024, when a new set of benchmarks will be released.*
+
 ## Experimental results should include a comparison with the state of the art
 
 The community has established regular competitive events to publicly promote state-of-the-art systems.
